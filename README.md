@@ -12,7 +12,8 @@
 ```sudo nano /opt/aws/amazon-cloudwatch-agent/etc/amazon-cloudwatch-agent.json```
 
 # Define the Log Configuration
-```{
+```
+{
     "logs": {
         "logs_collected": {
             "files": {
@@ -39,7 +40,8 @@
             }
         }
     }
-}```
+}
+```
 
 
 #Start or Restart the CloudWatch Agent
