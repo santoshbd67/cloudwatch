@@ -44,7 +44,7 @@
 ```
 
 
-#Start or Restart the CloudWatch Agent
+# Start or Restart the CloudWatch Agent
 ```sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl \
     -a fetch-config \
     -m ec2 \
