@@ -41,4 +41,5 @@
     }
 }```
 
+# Step 6:Start or Restart the CloudWatch Agent
 
